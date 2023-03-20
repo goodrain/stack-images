@@ -193,6 +193,7 @@ apt-get install -y --no-install-recommends \
     libtheora0 \
     libunistring2 \
     libuv1 \
+    libvips42 \
     libvorbis0a \
     libvorbisenc2 \
     libvorbisfile3 \
@@ -216,6 +217,7 @@ apt-get install -y --no-install-recommends \
     openssh-client \
     openssh-server \
     patch \
+    poppler-utils \
     python-is-python3 \
     python3 \
     rename \
