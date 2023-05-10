@@ -236,6 +236,11 @@ apt-get install -y --no-install-recommends \
     zip \
     zlib1g \
     zstd \
+    zlib1g-dev \
+    libpq5 \
+    mysql-client \
+    libmysqlclient-dev \
+    libmemcached-dev
 
 
 cat > /etc/ImageMagick-6/policy.xml <<'IMAGEMAGICK_POLICY'
